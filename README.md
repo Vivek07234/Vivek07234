@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViveK ShArMa
 - 👀 I’m interested in WEB DEVELOPMENT
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning ReactJs
 - 📫 How to reach me vivek07234@gmail.com
 - ⚡ Fun fact I am Funny
 
